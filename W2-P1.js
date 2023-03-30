@@ -199,7 +199,10 @@ let val = 7;
 if (val < 5) {
   console.log("Meno di 5");
 } else if (val < 10) {
-  console.log("Meno
+  console.log("Meno di 10 ma maggiore o uguale a 5");
+} else {
+  console.log("Uguale a 10 o maggiore di 10");
+}
 */
 
 /*
